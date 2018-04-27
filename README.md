@@ -20,7 +20,6 @@ The code bundle for this video course is available at: https://github.com/PacktP
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 ● Basic understanding of Android app development using Kotlin
 
 ### Technical Requirements
