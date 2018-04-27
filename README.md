@@ -11,13 +11,11 @@ The code bundle for this video course is available at: https://github.com/PacktP
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Write clean code with Kotlin 
-<LI>Avoid ceremony and boilerplate code around Android APIs 
-<LI>Use functional programming to write concise, expressive code 
-<LI>Create Android apps with Kotlin 
-<LI>Write readable SQLite transactions using extension functions in Kotlin 
-<LI>Use the Kotlin Android Extensions to avoid findViewById() 
-<LI>Create multiple activities, layouts and menus </LI></UL></DIV>
+<LI>Implement Lambdas and higher-order functions in Kotlin.
+<LI>Work with Interfaces to resolve overriding conflicts.
+<LI>Explore concepts such as operator overloading, property delegation, and null safety in Kotlin. 
+<LI>Use Anko to make your code clean and easy to read, and smooth out the rough edges in the Android SDK for Java.  
+<LI>Deploy and publish your Android apps on Google Play Store. </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
