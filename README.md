@@ -1,2 +1,46 @@
-# Applied-Kotlin-for-Android-Application-Development
-Applied Kotlin for Android Application Development[video], published by Packt
+# Applied Kotlin for Android Application Development [Video]
+This is the code repository for [Applied Kotlin for Android Application Development [Video]](https://www.packtpub.com/application-development/applied-kotlin-android-application-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781788836685), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+## About the Video Course
+Kotlin greatly reduces source code verbosity. With Google having announced its support for Kotlin as a first-class language for writing Android apps, now's the time to learn how to create apps from scratch with Kotlin
+
+The Applied Kotlin for Android Application Development course is for developers who have some experience in the basics of Kotlin and are ready to take the plunge into the more advanced stage. This course covers Kotlin's superpowers, as it were. You should already know the syntax, but now we will go over the things that make Kotlin stand out—such as inline functions and null safety.You will learn about Anko, a Kotlin library which makes Android application development faster and easier. It makes your code clean and easy to read and smoothes out the rough edges in the Android SDK for Java. You will also publish the app you built during the course to get an overall end-to-end experience of Kotlin Android application development.
+
+By the end of this course, you will have gained experience in creating and deploying Android applications using Kotlin.
+The code bundle for this video course is available at: https://github.com/PacktPublishing/Applied-Kotlin-for-Android-Application-Development
+
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
+<LI>Write clean code with Kotlin 
+<LI>Avoid ceremony and boilerplate code around Android APIs 
+<LI>Use functional programming to write concise, expressive code 
+<LI>Create Android apps with Kotlin 
+<LI>Write readable SQLite transactions using extension functions in Kotlin 
+<LI>Use the Kotlin Android Extensions to avoid findViewById() 
+<LI>Create multiple activities, layouts and menus </LI></UL></DIV>
+
+## Instructions and Navigation
+### Assumed Knowledge
+To fully benefit from the coverage included in this course, you will need:<br/>
+To fully benefit from the coverage included in this course, you will need:
+● Basic understanding of Android app development using Kotlin
+
+### Technical Requirements
+This course has the following software requirements:<br/>
+This course has the following software requirements:
+● Android Studio 3.0
+This course has been tested on the following system configuration:
+● OS:OSX 10
+● Processor:2.2 GHz Intel Core i7
+● Memory: 16GB
+● Hard Disk Space: 256GB
+● Video Card:Intel Iris Pro 1536 MB
+
+
+## Related Products
+* [Kotlin for Android Developers [Video]](https://www.packtpub.com/application-development/kotlin-android-developers-video?utm_source=github&utm_medium=repository&utm_campaign=9781788996549)
+
+* [Mastering Kotlin for Android Development [Video]](https://www.packtpub.com/application-development/mastering-kotlin-android-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781788474672)
+
+* [Kotlin for Android & Java Developers: Clean Code on Android [Video]](https://www.packtpub.com/application-development/kotlin-android-java-developers-clean-code-android-video?utm_source=github&utm_medium=repository&utm_campaign=9781788994811)
+
