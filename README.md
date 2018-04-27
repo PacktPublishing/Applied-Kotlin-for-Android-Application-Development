@@ -26,12 +26,12 @@ To fully benefit from the coverage included in this course, you will need:
 ### Technical Requirements
 This course has the following software requirements:<br/>
 This course has the following software requirements:
-● Android Studio 3.0
+● Android Studio 3.0<br/>
 This course has been tested on the following system configuration:
-● OS:OSX 10
-● Processor:2.2 GHz Intel Core i7
-● Memory: 16GB
-● Hard Disk Space: 256GB
+● OS:OSX 10<br/>
+● Processor:2.2 GHz Intel Core i7<br/>
+● Memory: 16GB<br/>
+● Hard Disk Space: 256GB<br/>
 ● Video Card:Intel Iris Pro 1536 MB
 
 
