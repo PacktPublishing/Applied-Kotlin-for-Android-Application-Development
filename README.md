@@ -40,7 +40,3 @@ This course has been tested on the following system configuration:<br/>
 
 * [Kotlin for Android & Java Developers: Clean Code on Android [Video]](https://www.packtpub.com/application-development/kotlin-android-java-developers-clean-code-android-video?utm_source=github&utm_medium=repository&utm_campaign=9781788994811)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781788836685">https://packt.link/free-ebook/9781788836685 </a> </p>
